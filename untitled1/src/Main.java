@@ -8,7 +8,7 @@ public class Main {
         Scanner scan = new Scanner(System.in);
         String equation = scan.nextLine();
         split(equation);
-
+//hi
 
     }
 
