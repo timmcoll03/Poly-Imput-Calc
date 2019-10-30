@@ -36,8 +36,6 @@ public class Main {
 
                 coefficient[counter-1] = Double.parseDouble(c);
 
-                System.out.println(coefficient[counter-1]);
-
 
 
                 if (arrOfStr2.length == 2) {
@@ -45,11 +43,12 @@ public class Main {
 
                     power[counter-1] = Double.parseDouble(arrOfStr2[1]);
 
-                    System.out.print(power[counter-1]);
-
-
 
                 } else {power[counter-1] = 0;}
+
+                terms.add(new Term(coefficient[counter-1],power[counter-1]));
+                System.out.println("Term Coefficient is " + coefficient[counter-1]);
+                System.out.println("Term Power is " + power[counter-1]);
 
 
 
@@ -59,11 +58,6 @@ public class Main {
         }
 
 
-        for (int i = 0; i<counter; i++){
-            terms.add(new Term(coefficient[i],power[i]));
-            System.out.println("Term Coefficient is " + coefficient[i]);
-            System.out.println("Term Power is " + power[i]);
-        }
 
     }
 

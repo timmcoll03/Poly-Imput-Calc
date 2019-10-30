@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb3d4460-4fdf-4df9-bf50-18e4e9a9c725" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Term.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -34,12 +32,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="244" />
+          <entry key="java" value="296" />
+          <entry key="txt" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="244" />
+          <entry key="JAVA" value="296" />
+          <entry key="PLAIN_TEXT" value="15" />
         </counts>
       </usages-collector>
     </session>
@@ -49,8 +49,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="885">
-              <caret line="59" column="25" selection-start-line="59" selection-start-column="25" selection-end-line="59" selection-end-column="25" />
+            <state relative-caret-position="140">
+              <caret line="59" column="8" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#583#589#0" expanded="true" />
@@ -121,7 +121,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572451495689" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572451688327" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -166,6 +166,14 @@
       <option name="presentableId" value="Default" />
       <updated>1572373618723</updated>
     </task>
+    <task id="LOCAL-00001" summary="I did the thing">
+      <created>1572451551778</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572451551778</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -203,6 +211,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="I did the thing" />
+    <option name="LAST_COMMIT_MESSAGE" value="I did the thing" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Term.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -213,8 +225,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="885">
-          <caret line="59" column="25" selection-start-line="59" selection-start-column="25" selection-end-line="59" selection-end-column="25" />
+        <state relative-caret-position="140">
+          <caret line="59" column="8" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#583#589#0" expanded="true" />
