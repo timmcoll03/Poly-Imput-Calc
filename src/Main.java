@@ -44,7 +44,7 @@ public class Main {
                     power[counter-1] = Double.parseDouble(arrOfStr2[1]);
 
 
-                } else {power[counter-1] = 0;}
+                } else {power[counter-1] = 1;}
 
                 terms.add(new Term(coefficient[counter-1],power[counter-1]));
                 System.out.println("Term Coefficient is " + coefficient[counter-1]);
