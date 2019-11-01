@@ -9,6 +9,7 @@ public class Main {
     }
 
     public static void split(String d) {
+        System.out.println("Put a + between each term (if negative +-ax^y)");
         int counter = 1;
         String[] arrOfStr = d.split("\\+");
         for (String a : arrOfStr) counter++;
